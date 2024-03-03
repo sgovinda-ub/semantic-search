@@ -1,4 +1,7 @@
-# semantic-search
+# semantic-search 
+
+Dependencies:
+
 Flask(Web app framework) - conda install anaconda::flask
 
 psycopg2(postgresql) - conda install anaconda::psycopg2
